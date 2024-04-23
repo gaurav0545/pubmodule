@@ -7,3 +7,7 @@ func Hello() string {
 func GoodBye() string {
 	return "Good Bye !"
 }
+
+func Greet() string {
+	return "Greetings"
+}
