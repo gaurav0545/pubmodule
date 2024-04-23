@@ -15,3 +15,7 @@ func Greet() string {
 func Hey() string {
 	return "Hey"
 }
+
+func Ciao() string {
+	return "Ciao"
+}
