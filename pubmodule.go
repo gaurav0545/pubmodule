@@ -11,3 +11,7 @@ func GoodBye() string {
 func Greet() string {
 	return "Greetings"
 }
+
+func Hey() string {
+	return "Hey"
+}
